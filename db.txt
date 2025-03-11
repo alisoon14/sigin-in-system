@@ -1,0 +1,3 @@
+Имя: artem, Email: example@gmail.com, Телефон: 89999999999, Пароль: kkkkk
+Имя: example, Email: example@gmail.com, Телефон: 89999999999, Пароль: kkkkkk
+Имя:   авҐ¬, Email: artem@gmail.com, Телефон: 89999999999, Пароль: hhhhhhh
